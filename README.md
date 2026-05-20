@@ -192,7 +192,7 @@ Just give credit where it's due! 🙏
 
 Made with ❤️ by **Gunasri Gowroju**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25a35a4402.github.io.)
+[![GitHub][(https://github.com/25a35a4402.github.io.)](https://25a35a4402.github.io/number-quest-game/)
 
 ---
 
