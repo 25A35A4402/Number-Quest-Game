@@ -73,7 +73,7 @@ Just open the `index.html` file in any browser. No server, no dependencies neede
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/number-quest-game.git
+git clone https://github.com/25a35a4402.github.io./number-quest-game.git
 
 # Navigate into the folder
 cd number-quest-game
@@ -92,7 +92,7 @@ xdg-open index.html     # Linux
 4. Your game will be live at:
 
 ```
-https://your-username.github.io/number-quest-game
+https://25a35a4402.github.io./number-quest-game
 ```
 
 ---
@@ -190,7 +190,7 @@ Just give credit where it's due! 🙏
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **Gunasri Gowroju**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25a35a4402.github.io.)
 
